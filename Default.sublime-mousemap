@@ -1,0 +1,9 @@
+[
+    {
+        "button": "button1",
+        "count": 1,
+        "press_command": "drag_select",
+        "modifiers": ["super"],
+        "command": "proxy_navigate_to_declaration"
+    }
+]
